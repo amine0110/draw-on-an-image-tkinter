@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/amine0110/draw-on-an-image-tkinter)](https://github.com/amine0110/draw-on-an-image-tkinter/issues) [![GitHub stars](https://img.shields.io/github/stars/amine0110/draw-on-an-image-tkinter)](https://github.com/amine0110/draw-on-an-image-tkinter/stargazers) [![GitHub license](https://img.shields.io/github/license/amine0110/draw-on-an-image-tkinter)](https://github.com/amine0110/draw-on-an-image-tkinter) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tk) ![YouTube Video Views](https://img.shields.io/youtube/views/4ehHuDDH-uc?style=social)
 # Draw on an image tkinter
 To do this project, we need to work with Tkinter, because the best way to draw on an image is to create a `Tkinter` canvas, we put the image in the canvas then the drawing will be easier.
 This draw will be using the `mouse`, so it will be a random shape.
